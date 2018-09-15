@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Investigate The Crime</string>
+    <string name="text_who_is_the_suspect">Who is the suspect?</string>
+    <string name="text_select_suspect">Select suspect ...</string>
+    <string name="btn_solve_the_case">Solve The Case</string>
+    <string name="btn_solve_the_mistery">Solve The Mistery</string>
+
+    <string name="suspect_the_maid">The Maid</string>
+    <string name="suspect_the_electrician">The Electrician</string>
+    <string name="suspect_the_gardner">The Gardner</string>
+    <string name="suspect_the_cook">The Cook</string>
+    <string name="text_who_stole_the_money">Who Stole the Money?</string>
+    <string name="text_riddle_body">A man placed a $100 dollar bill on his desk and left for work. When he returned back the money was gone. He has three suspects: the cook, the maid and the electrician.\n\n
+                                    The cook said he put the bill under a book on his desk to keep it safe. The man checked and it is no longer there.\n\n
+                                    The maid said she moved the bill to the inside of the book between page 1 and 2 while she was cleaning. Again, the man checked the book and there was nothing between page 1 and 2.\n\n
+                                    The electrician said he saw the bill sticking out of the book and he moved it between page 2 and 3 to keep it safe.\n\n
+                                    The gardner said he saw the tief walking out with the money.\n\n
+                                    Who stole the money?</string>
+    <string name="text_title_case_solved">And the winner is ...</string>
+    <string name="text_riddle_answer">The electrician stole the money.\n\n If the man checked for the money between page 1 and 2 of the book,\nthen page 2 and 3 will be opposite sides of a single page and will not be able to hold the money.</string>
+    <string name="text_correct_answer">Your answer %s, was CORRECT!!! Congratulations</string>
+    <string name="text_incorrect_answer">Your answer %s, was close, however incorrect.</string>
+</resources>
